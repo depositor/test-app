@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "description": "test",
+  "repository": "https://github.com/depositor/test-app",
+  "keywords": ["docker"],
+  "stack": "container"
+}
